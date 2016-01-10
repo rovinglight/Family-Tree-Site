@@ -1,0 +1,144 @@
+@charset "UTF-8";
+/* CSS Document */
+a{
+	text-decoration:none;
+}
+img{
+	width:100%;
+}
+.mainTitle{
+	text-align:left;	
+	margin-top:20%;
+	margin-bottom:20%;
+	float:auto;
+}
+.guide{
+	text-align:left;
+	font-size:15px;
+	float:right;
+	width:30%;
+	height:100%;
+	position:fixed;
+	right:0px;
+	top:0px;
+}
+.guideBar{
+	font-size:20px;
+	margin-top:20%;
+}
+.mainContent{
+	float:left;
+	margin-left:10%;
+	margin-right:5%;
+	margin-top:5%;
+	width:55%;
+}
+.first{
+	background-color:white;
+	margin:3%;
+	box-shadow: 2px 2px 4px #888888;
+	
+}
+.second{
+	background-color:black;
+	margin-top:3%;
+	box-shadow: 3px 3px 4px #888888;
+	color:white;
+	height:290px;
+}
+.select:hover{
+	box-shadow:1px 1px 2px #888888;
+}
+img{
+	width:100%;
+	height:100%;
+}
+.links{
+	text-decoration:none; 
+	color:grey;
+}
+.links:hover{
+	text-decoration:none;
+	color:#343434
+}
+.footer{
+	position:fixed;
+	bottom:0px;
+	background-color:#fcde26;
+	border-radius:3px;
+	width:100%;
+	padding:1px;
+	padding-left:17px;
+}
+.login{
+	margin-left:auto;
+	margin-right:auto;
+	width:60%;
+	margin-top:10%;
+	padding:2%;
+	box-shadow: 2px 2px 5px #888888;
+}
+.view{
+	margin:10%;
+	width:50%;
+	float:left;
+	margin-top:5%;	
+}
+.goBack{
+	float:left;
+	position:absolute;
+	top:5%;
+	left:5%;
+	width:5%;
+	font-size:36px;
+}
+.accountIcon{
+	border-radius:50px;
+	width:100px;
+	height:100px;
+	border:solid 5px grey;
+	margin:10px;
+	margin-left:20px;
+}
+.accountDiv{
+	width:100%;
+	position:fixed;
+	bottom:50px;
+	box-shadow: 2px 2px 5px #888888;
+}
+.accountDetail{
+	margin:10%;
+	width:50%;
+	float:left;
+	margin-top:5%;	
+}
+.treeSelect{
+	float:left;
+	margin:5%;
+	box-shadow:2px 2px 5px #888888;
+	width:200px;
+	height:200px;
+	padding:10px;
+	text-align:center;
+}
+.editMain{
+	margin:10%;
+	width:50%;
+	float:left;
+	margin-top:5%;
+	padding:5%;
+}
+.viewRow{
+	width:100%;
+	height:4.5em;
+}
+.viewColumn{
+	width:1.5em; 
+	float:left;
+}
+.viewGeneration{
+	width:2em; 
+	float:left;
+	border-right:3px solid #d2322d;
+	line-height:150%;
+}
