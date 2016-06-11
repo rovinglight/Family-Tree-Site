@@ -4,7 +4,7 @@
 建立成员后可以编辑自己和成员的辈分。 
 # 网站组成
 ### 前端页面
-index（主页，起链接各页的功能）
+index（主页，起链接各页的功能）  
 howToUse,whyWeCreateThis,whatIsFamilyTree（介绍性页面）
 myFamilyTree（实现登陆功能）
 register（实现注册功能）
